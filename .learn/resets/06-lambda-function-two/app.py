@@ -1,4 +1,4 @@
-rapid = lambda str: str[:len(str)-1]
+
 
 
 # Your code above, please do not change code below
